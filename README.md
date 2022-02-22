@@ -6,15 +6,17 @@
 
 ## 1、使用
 
-!> 请多使用 **Ctrl+F5** ，检索更高效！
 
-本仓库已经发布至网站：[https://wutky.github.io](https://wutky.github.io)
+本仓库已经发布至网站，使用网站访问效果更佳！
 
-国内加速站点：[https://wutky.gitee.io](https://wutky.gitee.io)
++ 通用站点：[https://wutky.zxzy.top](https://wutky.zxzy.top) （速记：WUT考研，知行致远，to be the Top one）
++ 备用站点：[https://wutky.gitee.io](https://wutky.gitee.io)
+
+> 请多使用 **Ctrl+F5** ，检索更高效！
 
 各个单位的官方考研初试、复试相关通知，请点击**侧边栏**的发布单，或点击下面**列表**中的超链接查看：
 
-?> 注：*黑色斜体* 的学院，与考研相关的通知暂未整理汇总。如果你想参考整理汇总，请 [加入我们](/about/joinus.md)！
+> 注：*斜体* 的学院，与考研相关的通知暂未整理汇总。如果你想参考整理汇总，请 [加入我们](/about/joinus.md)！
 
 - [研究生院通知](/wut/00_gd.md)
 - 各学院通知
