@@ -4,7 +4,7 @@
 
 # WUT考研通知时间轴 <small></small>
 
-> 知行致远，To be the Top One！
+> 知行致远，Be the Top One！
 
 - 本网站按时间倒序整理了武汉理工大学考研相关的官方通知
 
