@@ -8,6 +8,7 @@
 
 | <div style="width:40px">日期</div> | <div style="width:80px">主题</div> | 通知详情 |
 |  ---- |----  | ----  |
+| 03-21 | 复试细则 | [计算机学院](http://cst.whut.edu.cn)发布《武汉理工大学计算机与人工智能学院2022年硕士研究生招生复试录取工作实施细则》【[查看详情](http://cst.whut.edu.cn/yjsjy/zsxx/202203/t20220322_523240.htm)】
 | 03-21 | 复试名单 | [计算机学院](http://cst.whut.edu.cn)发布《武汉理工大学计算机与人工智能学院2022年硕士研究生招生考试复试名单公示（一志愿）》【[查看详情](http://cst.whut.edu.cn/yjsjy/zsxx/202203/t20220321_523100.htm)】【[查看附件](http://cst.whut.edu.cn/yjsjy/zsxx/202203/P020220321654960493374.pdf)】
 
 ## 2021年
