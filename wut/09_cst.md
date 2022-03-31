@@ -1,13 +1,12 @@
 !> 计算机与人工智能学院官方网站：[http://cst.whut.edu.cn](http://cst.whut.edu.cn)
 
-+ 【推荐】<font color=red>WUT计算机考研复试复习资料及真题</font>，请 [点击查看](https://mianbaoduo.com/o/bread/mbd-Ypaamptw)
-
-+ 【推荐】<font color=red>更多考研资料</font>，请关注公众号 [知行研究院](https://img.zxdmy.com/md/20210626181357.jpg)，回复关键字【<font color=red>考研</font>】获取更多考研资料。[点击此处查看二维码](https://img.zxdmy.com/md/20210626181357.jpg)
++ 【推荐】<font color=red>WUT计算机考研初复试信息咨询服务</font>，请关注公众号 [知行研究院](https://img.zxdmy.com/md/20210626181357.jpg)，回复关键字【<font color=red>考研</font>】获取。[点击此处查看二维码](https://img.zxdmy.com/md/20210626181357.jpg)
 
 ## 2022年
 
 | <div style="width:40px">日期</div> | <div style="width:80px">主题</div> | 通知详情 |
 |  ---- |----  | ----  |
+| 03-30 | 复试成绩 | [计算机学院](http://cst.whut.edu.cn)发布《武汉理工大学计算机与人工智能学院2022年硕士研究生招生复试成绩公示（一志愿）》【[查看详情](http://cst.whut.edu.cn/yjsjy/zsxx/202203/t20220330_523904.htm)】
 | 03-21 | <font color=red>复试细则</font> | [计算机学院](http://cst.whut.edu.cn)发布《武汉理工大学计算机与人工智能学院2022年硕士研究生招生复试录取工作实施细则》【[查看详情](http://cst.whut.edu.cn/yjsjy/zsxx/202203/t20220322_523240.htm)】
 | 03-21 | 复试名单 | [计算机学院](http://cst.whut.edu.cn)发布《武汉理工大学计算机与人工智能学院2022年硕士研究生招生考试复试名单公示（一志愿）》【[查看详情](http://cst.whut.edu.cn/yjsjy/zsxx/202203/t20220321_523100.htm)】【[查看附件](http://cst.whut.edu.cn/yjsjy/zsxx/202203/P020220321654960493374.pdf)】
 
