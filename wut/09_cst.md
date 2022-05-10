@@ -1,6 +1,6 @@
-!> 计算机与人工智能学院官方网站：[http://cst.whut.edu.cn](http://cst.whut.edu.cn)
+?> 计算机与人工智能学院官方网站：[http://cst.whut.edu.cn](http://cst.whut.edu.cn)
 
-+ 【推荐】<font color=red>WUT计算机考研初复试信息咨询服务</font>，请关注公众号 [知行研究院](https://img.zxdmy.com/md/20210626181357.jpg)，回复关键字【<font color=red>考研</font>】获取。[点击此处查看二维码](https://img.zxdmy.com/md/20210626181357.jpg)
+!> 【推荐】<font color=red>WUT计算机考研初复试信息咨询、复试资料</font>，请 [点击此处获取](https://vip.zxdmy.com/article/26)
 
 ## 2022年
 
