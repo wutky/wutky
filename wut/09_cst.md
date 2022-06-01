@@ -1,6 +1,6 @@
 ?> 计算机与人工智能学院官方网站：[http://cst.whut.edu.cn](http://cst.whut.edu.cn)
 
-!> 【推荐】<font color=red>WUT计算机考研初复试信息咨询、复试资料</font>，请 [点击此处获取](https://vip.zxdmy.com/article/26)
+!> 【考研民间群】WUT计算机23考研群：<b>486124950</b>，欢迎加入！
 
 ## 2022年
 
