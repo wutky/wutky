@@ -10,11 +10,70 @@
     <!--    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">-->
     <link rel="stylesheet" href="//cdn.zxdmy.com/libs/docsify/vue.css">
     <style>
+        /* 设置全局默认字体大小 */
         body {
             font-size: 16px;
         }
-        a{
-            text-decoration:none;
+
+        /* 去除超链接的下划线 */
+        a {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+
+        /* 去除代码块的横线 */
+        .markdown-section tr {
+            border-top: 0;
+        }
+
+        /* 正文行间距 */
+        #main > p {
+            line-height: 2rem;
+        }
+
+        #main > ul {
+            line-height: 1.8rem;
+        }
+
+        .markdown-section>:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code {
+            font-size: 15px;
+        }
+
+        .markdown-section code{
+            padding: 1px 2px;
+        }
+        /* 左侧一级二级标题的字体大小 */
+        body > main > aside > div.sidebar-nav > ul > li > a {
+            font-size: 16px;
+        }
+
+        body > main > aside > div.sidebar-nav > ul > li > ul > li > a {
+            font-size: 16px;
+        }
+
+        .advertisement {
+            position: absolute;
+            right: 1px;
+            top: 80px;
+            width: 200px;
+            padding: 0.5px;
+            z-index: 99;
+            text-align: center;
+        }
+
+        .advertisement p,
+        h4 {
+            margin: 0;
+            padding: 0;
+        }
+
+        .advertisement .Tencent_code h4 {
+            font-size: 14px;
+            color: #25a46a;
+            margin-bottom: 1px;
         }
     </style>
     <script>
@@ -30,6 +89,26 @@
 </head>
 <body>
 <div id="app"></div>
+<div class="aside_container">
+    <div class="advertisement">
+        <div id="advertisementShow" style="display: none">
+            <div style="float: left; width: 20%; margin: 40% 0">
+                <button id="interviewBtn" onclick="showAdverseMent()">
+                    隐<br>藏
+                </button>
+            </div>
+            <div style="float: left;width: 80%">
+                <p style="font-size: 14px;color:red">欢迎关注【极客实验室】</p>
+                <img src="https://open.weixin.qq.com/qr/code?username=GeekLaboratory" alt="极客实验室"/>
+            </div>
+        </div>
+        <div id="advertisementNone" style="float: right;width: 15%; display: block">
+            <button id="interviewBtn2" onclick="displayAdverseMent()">
+                IT<br>技<br>术<br>分<br>享<br>平<br>台
+            </button>
+        </div>
+    </div>
+</div>
 <script>
     window.$docsify = {
         name: 'WUT考研通知汇总',
@@ -87,6 +166,17 @@
             }
         ]
     }
+
+    function showAdverseMent() {
+        advertisementShow.style.display = "none";
+        advertisementNone.style.display = "block";
+
+    }
+
+    function displayAdverseMent() {
+        advertisementNone.style.display = "none";
+        advertisementShow.style.display = "block";
+    }
 </script>
 <!-- Docsify v4 -->
 <!--<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>-->
@@ -121,7 +211,20 @@
 <!--<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>-->
 <script src="//cdn.zxdmy.com/libs/docsify/plugins/docsify-pagination.min.js"></script>
 <!--字数统计-->
-<script src="//cdn.zxdmy.com/libs/docsify/plugins/countable.js"></script>
-
+<!--<script src="//cdn.zxdmy.com/libs/docsify/plugins/countable.js"></script>-->
+<!-- 回到顶部 -->
+<script src="//cdn.zxdmy.com/libs/jquery/1.12.4/jquery-1.12.4.js"></script>
+<script src="//cdn.zxdmy.com/libs/jquery/goup/jquery.goup.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $.goup({
+            trigger: 700,
+            bottomOffset: 20,
+            locationOffset: 18,
+            title: '回到顶部',
+            titleAsText: true
+        });
+    });
+</script>
 </body>
 </html>
