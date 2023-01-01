@@ -38,9 +38,9 @@
 
 ## 2、学习资料
 
-> 即将更新
-> 
-> 可前往公众号【[极客实验室](https://open.weixin.qq.com/qr/code?username=GeekLaboratory)】或【[知行研究院](https://open.weixin.qq.com/qr/code?username=ZXAcademy)】观望观望
+!> [点击此处查看计算机专业考研复试资料](https://vip.zxzy.top/article/26)
+
+> 更多学习资料，可前往公众号【[极客实验室](https://open.weixin.qq.com/qr/code?username=GeekLaboratory)】或【[知行研究院](https://open.weixin.qq.com/qr/code?username=ZXAcademy)】观望观望
 
 ## 3、贡献
 
