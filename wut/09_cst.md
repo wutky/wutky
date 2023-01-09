@@ -1,7 +1,7 @@
 ?> 计算机与人工智能学院官方网站：[http://cst.whut.edu.cn](http://cst.whut.edu.cn) 【WUT计算机考研群：<b>486124950</b>，欢迎加入】
 
 !> [点击此处查看 WUT计算机考研复试资料](https://vip.zxzy.top/article/26) <br>
-[点击此处查看 WUT计算机考研历年招生指标与录取情况统计](https://docs.qq.com/sheet/DQUVGRlRHWHlSaWZB?tab=uljh43)
+[点击此处查看 WUT计算机考研历年招生指标与录取情况统计](https://docs.qq.com/sheet/DQUVGRlRHWHlSaWZB)
 
 ## 2022年
 
